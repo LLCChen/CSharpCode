@@ -1,0 +1,5 @@
+C:\Users\linche\Documents\GitHub\CSharpCode\Process\ProcessUsage\ProcessUsage\bin\Debug\ProcessUsage.exe.config
+C:\Users\linche\Documents\GitHub\CSharpCode\Process\ProcessUsage\ProcessUsage\bin\Debug\ProcessUsage.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\Process\ProcessUsage\ProcessUsage\bin\Debug\ProcessUsage.pdb
+C:\Users\linche\Documents\GitHub\CSharpCode\Process\ProcessUsage\ProcessUsage\obj\Debug\ProcessUsage.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\Process\ProcessUsage\ProcessUsage\obj\Debug\ProcessUsage.pdb
