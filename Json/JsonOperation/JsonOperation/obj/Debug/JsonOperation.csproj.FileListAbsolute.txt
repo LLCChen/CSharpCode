@@ -1,0 +1,7 @@
+C:\Users\linche\Documents\GitHub\CSharpCode\Json\JsonOperation\JsonOperation\bin\Debug\JsonOperation.exe.config
+C:\Users\linche\Documents\GitHub\CSharpCode\Json\JsonOperation\JsonOperation\bin\Debug\JsonOperation.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\Json\JsonOperation\JsonOperation\bin\Debug\JsonOperation.pdb
+C:\Users\linche\Documents\GitHub\CSharpCode\Json\JsonOperation\JsonOperation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\linche\Documents\GitHub\CSharpCode\Json\JsonOperation\JsonOperation\obj\Debug\JsonOperation.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\Json\JsonOperation\JsonOperation\obj\Debug\JsonOperation.pdb
+C:\Users\linche\Documents\GitHub\CSharpCode\Json\JsonOperation\JsonOperation\obj\Debug\JsonOperation.csprojResolveAssemblyReference.cache

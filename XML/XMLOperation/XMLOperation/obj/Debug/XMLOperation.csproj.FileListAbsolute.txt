@@ -1,0 +1,6 @@
+C:\Users\linche\Documents\GitHub\CSharpCode\XML\XMLOperation\XMLOperation\bin\Debug\XMLOperation.exe.config
+C:\Users\linche\Documents\GitHub\CSharpCode\XML\XMLOperation\XMLOperation\bin\Debug\XMLOperation.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\XML\XMLOperation\XMLOperation\bin\Debug\XMLOperation.pdb
+C:\Users\linche\Documents\GitHub\CSharpCode\XML\XMLOperation\XMLOperation\obj\Debug\XMLOperation.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\XML\XMLOperation\XMLOperation\obj\Debug\XMLOperation.pdb
+C:\Users\linche\Documents\GitHub\CSharpCode\XML\XMLOperation\XMLOperation\obj\Debug\XMLOperation.csprojResolveAssemblyReference.cache

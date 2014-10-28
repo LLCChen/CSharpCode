@@ -1,0 +1,6 @@
+C:\Users\linche\Documents\GitHub\CSharpCode\Http\HttpUsage\HttpUsage\bin\Debug\HttpUsage.exe.config
+C:\Users\linche\Documents\GitHub\CSharpCode\Http\HttpUsage\HttpUsage\bin\Debug\HttpUsage.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\Http\HttpUsage\HttpUsage\bin\Debug\HttpUsage.pdb
+C:\Users\linche\Documents\GitHub\CSharpCode\Http\HttpUsage\HttpUsage\obj\Debug\HttpUsage.csprojResolveAssemblyReference.cache
+C:\Users\linche\Documents\GitHub\CSharpCode\Http\HttpUsage\HttpUsage\obj\Debug\HttpUsage.exe
+C:\Users\linche\Documents\GitHub\CSharpCode\Http\HttpUsage\HttpUsage\obj\Debug\HttpUsage.pdb
