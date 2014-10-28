@@ -11,7 +11,12 @@ namespace JsonOperation
         static void Main(string[] args)
         {
             //JsonConvertCustomClassUsage.TestGoogleAuthProperty();
-            JsonConvertCustomClassUsage.TestBook();
+            //JsonConvertCustomClassUsage.TestBook();
+            var obj = JsonMapperUsage.ParseJson();
+            Console.WriteLine(obj.ToString());
+            Console.WriteLine("=====");
+            Console.WriteLine(JsonMapperUsage.GenerateJson(obj));
+
         }
     }
 }

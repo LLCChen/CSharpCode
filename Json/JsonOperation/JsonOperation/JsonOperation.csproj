@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LitJson">
+      <HintPath>DLL\LitJson.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>DLL\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -47,6 +50,7 @@
     <Compile Include="JObjectUsage.cs" />
     <Compile Include="JsonConvertCustomClassUsage.cs" />
     <Compile Include="JsonConvertUsage.cs" />
+    <Compile Include="JsonMapperUsage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
